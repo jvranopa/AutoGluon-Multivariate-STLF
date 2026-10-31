@@ -1,1 +1,3 @@
 # AutoGluon-Multivariate-STLF
+
+This repository contains the generalized, modular codebase for my 2026 Master's thesis on high-frequency multivariate short-term load forecasting. The original proprietary utility dataset and location-specific infrastructure tags have been omitted for data privacy and confidentiality. The core pipeline demonstrating automated data cleaning, dynamic rolling MAD residual imputation, physics-aware temporal disaggregation, and AutoGluon modeling remains fully intact.
